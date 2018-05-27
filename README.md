@@ -1,1 +1,1 @@
-# dockerfile-react-native-ci
+# dockerfile-react-native-android
